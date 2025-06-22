@@ -21,6 +21,7 @@ Apriori is a classic algorithm that identifies frequent itemsets and derives ass
 * **Use**: When rule-based insights and confidence/lift metrics are needed.
 * **Strength**: Generates interpretable rules (e.g., “If bread, then milk”).
 * **Limitation**: Can be computationally heavy with large datasets.
+
 ![Apriori Algorithm](apriori.png)
 [Source: Wikimedia](https://commons.wikimedia.org/wiki/File:1_b1X3sV7WgElbWUZCYMOMrA.png))
 ### 🔢 Eclat Algorithm
