@@ -23,7 +23,8 @@ Apriori is a classic algorithm that identifies frequent itemsets and derives ass
 * **Limitation**: Can be computationally heavy with large datasets.
 
 ![Apriori Algorithm](apriori.png)
-[Source: Wikimedia](https://commons.wikimedia.org/wiki/File:1_b1X3sV7WgElbWUZCYMOMrA.png))
+
+[Source: Wikimedia](https://commons.wikimedia.org/wiki/File:1_b1X3sV7WgElbWUZCYMOMrA.png)
 ### 🔢 Eclat Algorithm
 
 Eclat (Equivalence Class Clustering and bottom-up Lattice Traversal) uses a vertical data format with Transaction ID sets (TID lists). It computes frequent itemsets based on intersections of TID sets, which can be faster and more memory-efficient than Apriori.
@@ -45,7 +46,8 @@ GNNs model items and baskets as nodes in a bipartite graph. The model learns vec
 * **Limitation**: Less interpretable than rule-based methods.
 
 ![GNN](gnn.png)
-[Source: Wikimedia](https://commons.wikimedia.org/wiki/File:GNN_building_blocks.png))
+
+[Source: Wikimedia](https://commons.wikimedia.org/wiki/File:GNN_building_blocks.png)
 ---
 
 ## 🔄 Complete Workflow
